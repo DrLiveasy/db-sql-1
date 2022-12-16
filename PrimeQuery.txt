@@ -22,3 +22,4 @@ BONUS:
 2. SELECT head_of_department FROM departments
 3. SELECT * FROM degrees WHERE level LIKE 'magistral%'
 4. SELECT * FROM students WHERE name LIKE 'Marco%'
+5. SELECT * FROM courses WHERE cfu >= 12
