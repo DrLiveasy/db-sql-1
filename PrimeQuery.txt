@@ -28,3 +28,4 @@ BONUS:
 8. SELECT * FROM courses WHERE website IS NULL;
 9. SELECT * FROM teachers WHERE phone IS NOT NULL;
 10. BONUS : SELECT * FROM students WHERE name LIKE 'E%';
+11. BONUS : SELECT COUNT(*) FROM teachers WHERE name LIKE 'E%';
