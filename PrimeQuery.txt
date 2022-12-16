@@ -25,3 +25,4 @@ BONUS:
 5. SELECT * FROM courses WHERE cfu >= 12;
 6. SELECT * FROM courses WHERE cfu > 10 OR cfu < 5;
 7. SELECT * FROM courses WHERE period LIKE 'I SEMESTRE%' AND year = 1;
+8. SELECT * FROM courses WHERE website IS NULL;
