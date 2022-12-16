@@ -18,8 +18,10 @@ BONUS:
 
 
 --------------------------------------------------------------------------------------------------------------------------
-1. SELECT * FROM teachers
-2. SELECT head_of_department FROM departments
-3. SELECT * FROM degrees WHERE level LIKE 'magistral%'
-4. SELECT * FROM students WHERE name LIKE 'Marco%'
-5. SELECT * FROM courses WHERE cfu >= 12
+1. SELECT * FROM teachers;
+2. SELECT head_of_department FROM departments;
+3. SELECT * FROM degrees WHERE level LIKE 'magistral%';
+4. SELECT * FROM students WHERE name LIKE 'Marco%';
+5. SELECT * FROM courses WHERE cfu >= 12;
+6. SELECT * FROM courses WHERE cfu > 10 OR cfu < 5;
+7. 
