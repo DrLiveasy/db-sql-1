@@ -20,3 +20,4 @@ BONUS:
 --------------------------------------------------------------------------------------------------------------------------
 1. SELECT * FROM teachers
 2. SELECT head_of_department FROM departments
+3. SELECT * FROM degrees WHERE level LIKE 'magistral%'
