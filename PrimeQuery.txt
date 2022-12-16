@@ -27,3 +27,4 @@ BONUS:
 7. SELECT * FROM courses WHERE period LIKE 'I SEMESTRE%' AND year = 1;
 8. SELECT * FROM courses WHERE website IS NULL;
 9. SELECT * FROM teachers WHERE phone IS NOT NULL;
+10. BONUS : SELECT * FROM students WHERE name LIKE 'E%';
